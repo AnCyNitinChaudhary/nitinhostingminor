@@ -1,3 +1,2 @@
-sys
 opencv-python
 json
