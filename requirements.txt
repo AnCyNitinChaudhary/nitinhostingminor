@@ -1,2 +1,2 @@
 opencv-python
-json==2.0.9
+
